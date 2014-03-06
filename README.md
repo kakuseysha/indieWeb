@@ -9,7 +9,7 @@ indieWeb is a template that indie game makers can use to quickly get a game proj
 
 1. Fork the project.
 2. Update the img and index.html.
-3. Navigate to <username>.github.io/indieWeb/Index.html you should see your page
+3. Navigate to yourusername.github.io/indieWeb/Index.html you should see your page
 
 Note: There needs to be at least one push to trigger a page build. Otherwise you'll get a 404 see [StackOverflow Issue](http://stackoverflow.com/questions/8587321/github-pages-in-forked-repo)
 
